@@ -1,0 +1,15 @@
+/*字体图标*/
+@font-face {font-family: "iconfont";
+    src: url('../fonts/IcoMoon-Free.eot'); /* IE9*/
+    src: url('../fonts/IcoMoon-Free.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/IcoMoon-Free.woff') format('woff'), /* chrome、firefox */
+    url('../fonts/IcoMoon-Free.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('../fonts/IcoMoon-Free.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.icon{
+    font-family: "iconfont";
+    font-size: 20px;
+    color:#F10214;
+}
+
+
